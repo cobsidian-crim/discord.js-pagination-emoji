@@ -1,3 +1,11 @@
+<div align="center">
+  <p>
+    <a href="https://nodei.co/npm/discord.js-pagination-emoji
+/"><img src="https://nodei.co/npm/discord.js-pagination-emoji.png?downloads=true&stars=true" alt="NPM info" /></a>
+  </p>
+</div>
+
+
 # discord.js-pagination-emoji
 An updated version of the [discord.js-pagination package created by saanuregh](https://github.com/saanuregh/discord.js-pagination) featuring proper discord.js@13.0.0 support and custom emojis!
 
